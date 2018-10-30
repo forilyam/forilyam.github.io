@@ -1,0 +1,50 @@
+body {
+  font-family: Georgia;
+  font-size: 16px;
+  margin: 0 auto;   /* center content */
+  max-width: 800px; /* limit width */
+  line-height: 1.5;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 32px;
+  display: block;
+  border-bottom-style: solid;
+  border-bottom-color: #DDDDDD;
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+p {
+  margin-bottom: 18px;
+}
+
+
+ul {
+  margin-left: 40px;
+  margin-bottom: 18px;
+}
+
+#footer {
+  text-align: center;
+  margin-top: 64px;
+}
